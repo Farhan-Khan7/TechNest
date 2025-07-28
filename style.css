@@ -508,7 +508,7 @@ nav {
     .comment-action span{
         display: none;
     }
-     .comment-action {
+     .comment-action a{
         display: none;
     }
 
